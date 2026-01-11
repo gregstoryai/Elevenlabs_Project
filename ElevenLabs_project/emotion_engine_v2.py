@@ -17,7 +17,7 @@ from elevenlabs import Voice
 
 #if not API_KEY:
 #    raise ValueError("ELEVENLABS_API_KEY not found in .env file.")
-API_KEY = "sk_0cdf46dd659d5f29a25d816745c8565a06b9540ef6698dd5" # TEST LINE
+API_KEY = "Use your API Key"
 VOICE_ID = "JBKXQq8eu7bjrKXhy7MD" # Example voice ID
 MODEL_ID = "eleven_multilingual_v2" # Recommended high-quality model
 
